@@ -1,1 +1,1 @@
-New branch file oly shows up in the new branch
+New branch file oly shows up in master and new branch
